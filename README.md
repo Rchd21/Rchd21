@@ -55,5 +55,5 @@ and TensorFlow
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)
 
-](https://linkedin.com/in/rachid-ait-ameur-77846)  
+](https://linkedin.com/in/rachid-ait-ameur-77846)
 📧 r.aitameur2001@outlook.fr
