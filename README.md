@@ -1,15 +1,15 @@
 # Hi, I'm Rachid Ait Ameur 👋
 
 **Data Analyst – Business Intelligence & AI**  
-📍 Riyadh, Saudi Arabia | 🎓 ESILV Paris – Engineering Degree in Data & AI (2026)
+| 🎓 ESILV Paris – Engineering Degree in Data & AI (2026)
 
 ---
 
 ## 🚀 About Me
 
 Data Analyst with 3 years of experience in supply chain 
-and energy sectors. Currently deployed at REEF Holding 
-(Riyadh) building end-to-end BI dashboards and 
+and energy sectors. Currently deployed at Enedis 
+(La Defense) building end-to-end BI dashboards and 
 contributing to AI Agent deployment.  
 Finalizing an Engineering degree in Data & AI at ESILV Paris.
 
