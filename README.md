@@ -38,10 +38,6 @@ detection and lung cancer classification with
 3 XAI methods (Grad-CAM, LIME, SHAP) — 
 Docker + FastAPI + Nginx
 
-⚙️ **Regulatory GPS – Hackathon PLM/DPM**
-> Local AI tool using Mistral/Ollama to extract 
-and analyze automotive regulatory requirements 
-(UNECE R67) with full traceability
 
 📊 **Salary Prediction**
 > ML model using Random Forest, XGBoost 
